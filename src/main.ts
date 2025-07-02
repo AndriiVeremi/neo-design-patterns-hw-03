@@ -26,3 +26,7 @@ switch (provider) {
 // Створюємо контекст та обробляємо платіж
 const context = new PaymentContext(factory);
 context.processPayment(100);
+
+
+
+
